@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E41D1511-7F60-E410-F099-F12A459785E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Projects/IMU/ReceiveIMUValues.cs">
+    <Files>
+      <File FileName="Assets/Projects/IMU/ReceiveIMUValues.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="import-obj-to-scene2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Projects" expanded="True">
+                <Node name="IMU" expanded="True">
+                  <Node name="ReceiveIMUValues.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="import-obj-to-scene2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="857b49ad-5a33-4bfb-9f6a-bcb31cb5ba73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
